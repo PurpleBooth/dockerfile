@@ -1,0 +1,16 @@
+{
+  "name": "dockerdemo",
+  "version": "0.1.0",
+  "description": "Docker demo app. You gotta have something to deploy!",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.12.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Billie Thompson <billie@purplebooth.co.uk>",
+  "license": "MIT"
+}
